@@ -1,4 +1,4 @@
-mport requests
+import requests
 import json
 
 url = "https://open-weather13.p.rapidapi.com/city"
